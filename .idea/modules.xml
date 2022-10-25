@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExtraLab/ExtraLab.iml" filepath="$PROJECT_DIR$/ExtraLab/ExtraLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab01.10/Lab01.10.iml" filepath="$PROJECT_DIR$/Lab01.10/Lab01.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02.2/Lab02.2.iml" filepath="$PROJECT_DIR$/Lab02.2/Lab02.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02.2-extra/Lab02.2-extra.iml" filepath="$PROJECT_DIR$/Lab02.2-extra/Lab02.2-extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab04.1/Lab04.1.iml" filepath="$PROJECT_DIR$/Lab04.1/Lab04.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab04.1extra/Lab04.1extra.iml" filepath="$PROJECT_DIR$/Lab04.1extra/Lab04.1extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05-extra/Lab05-extra.iml" filepath="$PROJECT_DIR$/Lab05-extra/Lab05-extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05.2/Lab05.2.iml" filepath="$PROJECT_DIR$/Lab05.2/Lab05.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab06.1_Extra_Lab_Exercises/Lab06.1_Extra_Lab_Exercises.iml" filepath="$PROJECT_DIR$/Lab06.1_Extra_Lab_Exercises/Lab06.1_Extra_Lab_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07.1/Lab07.1.iml" filepath="$PROJECT_DIR$/Lab07.1/Lab07.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.1/Lab08.1.iml" filepath="$PROJECT_DIR$/Lab08.1/Lab08.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08.2/Lab08.2.iml" filepath="$PROJECT_DIR$/Lab08.2/Lab08.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" filepath="$PROJECT_DIR$/MiniLab03.1/MiniLab03.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLab05.1/MiniLab05.1.iml" filepath="$PROJECT_DIR$/MiniLab05.1/MiniLab05.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1Project/Week1Project.iml" filepath="$PROJECT_DIR$/Week1Project/Week1Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhiteBoardModel/WhiteBoardModel.iml" filepath="$PROJECT_DIR$/WhiteBoardModel/WhiteBoardModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lb01.10/lb01.10.iml" filepath="$PROJECT_DIR$/lb01.10/lb01.10.iml" />
+    </modules>
+  </component>
+</project>
